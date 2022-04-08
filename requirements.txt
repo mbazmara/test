@@ -3,5 +3,7 @@ streamlit
 pandas
 yfinance
 plot_data
+pystan==2.19.1.1
+prophet
 fbprophet
 plotly
